@@ -17,8 +17,8 @@
 #include "esp_http_server.h"
 
 // Replace with your network credentials
-const char* ssid = "Fibertel WiFi433 2.4GHz";
-const char* password = "00421923585";
+const char* ssid = "matiss";
+const char* password = "xxxx";
 
 #define PART_BOUNDARY "123456789000000000000987654321"
 
